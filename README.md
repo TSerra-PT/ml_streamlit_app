@@ -6,3 +6,7 @@ This is a simple web app built with **Streamlit** that uses a pre-trained **scik
 
 - Trained with `CountVectorizer` + `LogisticRegression`
 - Simple binary sentiment classification (positive or negative)
+
+Examples:
+- Positive: I'm so happy with the result; Great job, well done.
+- Negative: This product is a wate of money, I'm really disappointed with this.
